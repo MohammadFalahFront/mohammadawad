@@ -1,0 +1,137 @@
+{
+    "coloroptions": [
+        "#436074",
+        "#ff039a",
+        "#7d0505",
+        "#6d1d9f",
+        "#35c00e",
+        "#002f2f"
+    ],
+    "word": [
+        "Frontend Dev",
+        "Web Designer",
+        "Performance",
+        "Interactivity",
+        "Creativity"
+    ],
+    "media": {
+        "Facebook": "https://web.facebook.com/mohamad.flah.988",
+        "Instagram": "https://www.instagram.com/sa.dp1",
+        "Gethub": "https://github.com/MohammadFalahFront",
+        "Linkedin": ""
+    },
+    "skills": [
+        {
+            "name": "Vue.js",
+            "translationKey": "vue",
+            "mastery": 85,
+            "iconImg": "vue",
+            "tags": [
+                "Vue 3",
+                "Composition API",
+                "Pinia",
+                "Vue Router"
+            ]
+        },
+        {
+            "name": "HTML & CSS",
+            "translationKey": "html-css",
+            "mastery": 98,
+            "iconImg": "css",
+            "tags": [
+                "HTML5",
+                "CSS3",
+                "Responsive",
+                "Accessibility"
+            ]
+        },
+        {
+            "name": "JavaScript",
+            "translationKey": "javaScript",
+            "mastery": 95,
+            "iconImg": "js",
+            "tags": [
+                "ES6+",
+                "APIs",
+                "OOP",
+                "Async/Await"
+            ]
+        },
+        {
+            "name": "Tailwind CSS",
+            "translationKey": "tailwind",
+            "mastery": 90,
+            "iconImg": "tailwindcss",
+            "tags": [
+                "Utility-first",
+                "Responsive",
+                "Customization"
+            ]
+        },
+        {
+            "name": "TypeScript",
+            "translationKey": "typeScript",
+            "mastery": 89,
+            "iconImg": "typescript",
+            "tags": [
+                "Typing",
+                "Interfaces",
+                "Vue Integration"
+            ]
+        },
+        {
+            "name": "PrimeVue",
+            "translationKey": "primeVue",
+            "mastery": 78,
+            "iconImg": "primeVue",
+            "tags": [
+                "UI Components",
+                "Themes",
+                "Data Tables"
+            ]
+        },
+        {
+            "name": "Quasar",
+            "translationKey": "quasar",
+            "mastery": 72,
+            "iconImg": "quasar",
+            "tags": [
+                "Material Design",
+                "Components",
+                "SSR & SPA"
+            ]
+        },
+        {
+            "name": "Nuxt.js",
+            "translationKey": "nuxt",
+            "mastery": 70,
+            "iconImg": "nuxt",
+            "tags": [
+                "Vue Framework",
+                "SSR",
+                "SEO Friendly",
+                "Modular"
+            ]
+        },
+        {
+            "name": "Vuetify",
+            "translationKey": "vuetify",
+            "mastery": 88,
+            "iconImg": "vuetify",
+            "tags": [
+                "Material Design",
+                "UI Components",
+                "Responsive Layout"
+            ]
+        }
+    ],
+    "about": {
+        "myage": 20,
+        "experience": 2,
+        "projects": 20
+    },
+    "dashbord": {
+        "email": "mohammadfalahfront@gmail.com",
+        "password": "2Wnjskqmm!"
+    }
+}
